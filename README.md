@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating intelligent systems since 2021<br>📚 I'm currently learning advanced deep learning techniques<br>🎯 Goals: To master AI system optimization and deployment<br>🎲 Fun fact: AI can be as unpredictable as human intuition sometimes!</p>
+<p align="left">✨ Creating intelligent systems since 2021<br>📚 I'm currently diving deep into Artificial Intelligence, Machine Learning, Deep Learning, and Large Language Models (LLMs)<br>🎯 Goals: To optimize AI models for real-time performance and explore the latest advancements in LLMs<br>🎲 Fun fact: AI models can learn, but so can I — from every challenge I face!</p>
 
 ###
 
@@ -32,4 +32,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" alt="aws logo"  />
 </div>
